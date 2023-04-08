@@ -22,3 +22,18 @@ This is a Python-based command-line file sharing application that allows users t
 3. Install the required packages
 
     `pip install -r requirements.txt `
+
+## Usage 
+
+### Starting the server
+To start the app, run the following command in your terminal
+
+    `python server.py`
+
+Enter the method, 0 for sharing and 1 for receiving a file 
+
+For sharing:
+    `Enter method: 0`
+
+For receiving:
+    `Enter method: 1`
