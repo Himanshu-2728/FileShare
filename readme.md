@@ -33,7 +33,30 @@ To start the app, run the following command in your terminal
 Enter the method, 0 for sharing and 1 for receiving a file 
 
 For sharing:
+
     `Enter method: 0`
 
 For receiving:
+
     `Enter method: 1`
+
+### Provide the path 
+
+After you start enter the method 0, you will be asked to enter the path of the file you want to share
+
+    `Please enter the path: <yourPath>`
+
+After providing the path, you will be provided with the hostname and a port which is to be entered on the receiving pc
+
+### Provide Hostname and Port
+
+    `Please enter the host name: `
+    `Please enter the port: `
+
+Enter the hostname and port displayed on the host pc
+And then, you are good to go
+
+
+# Thank You
+
+Thank you for checking out this file sharing application! If you have any feedback or suggestions, please feel free to open an issue or submit a pull request. I hope you find this app useful!
