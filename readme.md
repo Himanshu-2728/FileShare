@@ -60,3 +60,7 @@ And then, you are good to go
 # Thank You
 
 Thank you for checking out this file sharing application! If you have any feedback or suggestions, please feel free to open an issue or submit a pull request. I hope you find this app useful!
+
+## Credit
+
+The contents (description and thank you message) was written by chatGPT
