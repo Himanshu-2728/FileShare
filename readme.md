@@ -19,10 +19,6 @@ This is a Python-based command-line file sharing application that allows users t
 
     `cd FileShare `
 
-3. Install the required packages
-
-    `pip install -r requirements.txt `
-
 ## Usage 
 
 ### Starting the server
